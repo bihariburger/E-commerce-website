@@ -1,7 +1,7 @@
 # E-commerce-website
 # E-commerce Website Project
 
-This project is a fully functional **E-commerce Website** created as a part of the Computer Programming practical (FCCS0102) at Netaji Subhas University of Technology. The website allows users to browse various fashion products, such as winter jackets, and make purchases online. 
+This project is a fully functional **E-commerce Website**. The website allows users to browse various fashion products, such as winter jackets, and make purchases online. 
 
 ## Table of Contents
 - [Project Overview](#project-overview)
@@ -12,12 +12,7 @@ This project is a fully functional **E-commerce Website** created as a part of t
 - [License](#license)
 
 ## Project Overview
-The E-commerce Website offers users the ability to view and purchase items such as jackets for both men and women. The website features product categories, detailed item descriptions, and options to buy products through a shopping cart.
-
-### Team Members:
-- **Samarth Saran** (2023UME4161)
-- **Chris Khorle** (2023UME4181)
-- **Dhruv Yadav** (2023UME4189)
+The E-commerce Website offers users the ability to view and purchase items such as jackets for both men and women. The website features product categories, detailed item descriptions, and options to buy products through a shopping cart. The site uses **HTML5**, **CSS3**, and **Bootstrap** for its design, with **JavaScript** to enhance user interaction. It features product showcases, shopping cart simulations, and sections like "About Us" and "Contact Us". The project emphasizes a clean, modern, and mobile-friendly user interface【5†source】.
 
 ## Features
 - Responsive and mobile-friendly design using **Bootstrap**.
