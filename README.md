@@ -11,7 +11,7 @@ This project is a fully functional **E-commerce Website**. The website allows us
   
 
 ## Project Overview
-The E-commerce Website offers users the ability to view and purchase items such as jackets for both men and women. The website features product categories, detailed item descriptions, and options to buy products through a shopping cart. The site uses **HTML5**, **CSS3**, and **Bootstrap** for its design, with **JavaScript** to enhance user interaction. It features product showcases, shopping cart simulations, and sections like "About Us" and "Contact Us". The project emphasizes a clean, modern, and mobile-friendly user interface【5†source】.
+The E-commerce Website offers users the ability to view and purchase items such as jackets for both men and women. The website features product categories, detailed item descriptions, and options to buy products through a shopping cart. The site uses **HTML5**, **CSS3**, and **Bootstrap** for its design, with **JavaScript** to enhance user interaction. It features product showcases, shopping cart simulations, and sections like "About Us" and "Contact Us". The project emphasizes a clean, modern, and mobile-friendly user interface.
 
 ## Features
 - Responsive and mobile-friendly design using **Bootstrap**.
