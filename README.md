@@ -1,5 +1,4 @@
 # E-commerce-website
-# E-commerce Website Project
 
 This project is a fully functional **E-commerce Website**. The website allows users to browse various fashion products, such as winter jackets, and make purchases online. 
 
